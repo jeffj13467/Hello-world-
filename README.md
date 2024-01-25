@@ -12,3 +12,7 @@ int main ()
   capacity = 18.5;
   MPG = 18.59;
   interger value = 0.5;
+
+
+  return 0;
+  }
